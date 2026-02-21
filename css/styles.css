@@ -200,6 +200,12 @@ header {
   margin: 0;
 }
 
+.portfolio-card .feature-text {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 .page-footer {
   background-color: #2e2f42;
 }
