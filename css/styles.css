@@ -1,0 +1,280 @@
+body {
+  font-family: "Roboto", "Helvetica Neue", sans-serif;
+  color: #212121;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
+.logo,
+.logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #212121;
+  text-decoration: none;
+}
+
+.logo-footer {
+  color: #ffffff;
+}
+
+header {
+  background-color: #ffffff;
+  padding: 24px 0;
+}
+
+.main-navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.main-navigation a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #212121;
+  text-decoration: none;
+}
+
+.main-navigation a:hover,
+.main-navigation a:focus {
+  color: #2196f3;
+}
+
+address {
+  font-style: normal;
+}
+
+address ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+address a {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: #757575;
+  text-decoration: none;
+}
+
+address a:hover,
+address a:focus {
+  color: #2196f3;
+}
+
+.hero {
+  background-color: #2f303a;
+  text-align: center;
+  padding: 200px 0;
+}
+
+.hero h1 {
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+.hero button {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background-color: #2196f3;
+  border: none;
+  padding: 10px 32px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.hero button:hover,
+.hero button:focus {
+  background-color: #188ce8;
+}
+
+.features {
+  padding: 94px 0;
+}
+
+.features h2 {
+  font-size: 36px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  margin: 0 0 50px;
+}
+
+.features ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.features h3 {
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #212121;
+  margin: 0 0 10px;
+}
+
+.features p {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #757575;
+  margin: 0;
+}
+
+.our-team {
+  background-color: #f5f5f5;
+  padding: 94px 0;
+}
+
+.our-team h2 {
+  font-size: 36px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  margin: 0 0 50px;
+}
+
+.our-team ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.our-team li {
+  background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.our-team img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.our-team h3 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #212121;
+  margin: 30px 0 10px;
+}
+
+.our-team p {
+  font-size: 16px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #757575;
+  margin: 0;
+}
+
+.portfolio {
+  padding: 94px 0;
+}
+
+.portfolio h2 {
+  font-size: 36px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: #212121;
+  margin: 0 0 50px;
+}
+
+.portfolio-filter {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 34px;
+  text-align: center;
+}
+
+.portfolio-filter button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.63;
+  letter-spacing: 0.03em;
+  color: #212121;
+  background-color: #f5f5f5;
+  border: none;
+  padding: 6px 22px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.portfolio-filter button:hover,
+.portfolio-filter button:focus {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.portfolio-cards {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.portfolio-card img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.portfolio-card h3 {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+  margin: 0;
+  padding: 20px 24px 4px;
+}
+
+.portfolio-card p {
+  font-size: 16px;
+  line-height: 1.88;
+  letter-spacing: 0.03em;
+  color: #757575;
+  margin: 0;
+  padding: 0 24px 20px;
+}
+
+footer {
+  background-color: #2f303a;
+  padding: 60px 0;
+}
+
+footer .logo-footer {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+footer p {
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: rgba(255, 255, 255, 0.6);
+  margin: 0;
+  max-width: 231px;
+}
