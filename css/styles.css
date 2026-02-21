@@ -28,7 +28,6 @@ header {
 
 .main-navigation ul {
   list-style: none;
-  padding: 0;
   margin: 0;
 }
 
@@ -52,7 +51,6 @@ address {
 
 address ul {
   list-style: none;
-  padding: 0;
   margin: 0;
 }
 
@@ -112,7 +110,6 @@ address a:focus {
 
 .features ul {
   list-style: none;
-  padding: 0;
   margin: 0;
 }
 
@@ -148,7 +145,6 @@ address a:focus {
 
 .our-team ul {
   list-style: none;
-  padding: 0;
   margin: 0;
 }
 
@@ -174,9 +170,6 @@ address a:focus {
   margin: 0;
 }
 
-.portfolio {
-}
-
 .portfolio h2 {
   font-size: 36px;
   line-height: 1.17;
@@ -188,7 +181,6 @@ address a:focus {
 
 .portfolio-filter {
   list-style: none;
-  padding: 0;
   margin: 0 0 34px;
   text-align: center;
 }
@@ -212,11 +204,7 @@ address a:focus {
 
 .portfolio-cards {
   list-style: none;
-  padding: 0;
   margin: 0;
-}
-
-.portfolio-card img {
 }
 
 .portfolio-card h3 {
